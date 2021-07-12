@@ -1,2 +1,3 @@
 # w3resource-database-scripts
-database scripts: MYSQL, SQLSERVER
+#https://www.w3resource.com/sql-exercises/employee-database-exercise/index.php
+database employee script: mysql 14.14
