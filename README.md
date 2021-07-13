@@ -3,5 +3,5 @@
 
 MYSQL 14.14 <br />
 script employee database; <br />
-script movie database; mysql 14.14
+script movie database
 
