@@ -1,4 +1,4 @@
- ### w3resource DATABASES SCRIPTS/MYSQL
+ ### w3resource DATABASE SCRIPTS/MYSQL
  - employee database;
  - movie database;
  - soccer database.
