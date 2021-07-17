@@ -1,8 +1,7 @@
- ### w3resource DATABASES SCRIPTS
+ ### w3resource DATABASES SCRIPTS/MYSQL
  - employee database;
  - movie database;
  - soccer database.
- 
  
  
  links: <br />
@@ -11,8 +10,4 @@
  <https://www.w3resource.com/sql-exercises/soccer-database-exercise/index.php>
 
 
-MYSQL 5.7.34 <br />
-script employee database; <br />
-script movie database; <br />
-script soccer database.
 
